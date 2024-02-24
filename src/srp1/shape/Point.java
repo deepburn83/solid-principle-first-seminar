@@ -1,4 +1,4 @@
-package srp1.figure;
+package srp1.shape;
 
 public class Point {
     private final int x;
